@@ -1,4 +1,10 @@
 **AI Job Application Assistant**
+
+
+
+
+![WhatsApp Image 2026-03-09 at 3 17 27 PM](https://github.com/user-attachments/assets/c810291b-9aa8-4c87-bd6e-5d691fd3cc6b)
+
 AI-powered assistant that helps job seekers analyze job descriptions, tailor resumes, track applications, and improve based on rejection feedback.
 
 The system uses **Claude Opus 4.6** to perform semantic analysis between job descriptions and candidate profiles.
